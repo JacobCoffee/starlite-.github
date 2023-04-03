@@ -23,7 +23,7 @@
                 }
             },
             "policyInfo": "MIT License is required for code.",
-            "policyUrl": "https://github.com/starlite-api/meta/blob/main/policies/release.md"
+            "policyUrl": "https://github.com/litestarapi/meta/blob/main/policies/release.md"
         },
         "readme-file-exists": {
             "level": "warning",
